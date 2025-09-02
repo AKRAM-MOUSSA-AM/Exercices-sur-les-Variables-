@@ -7,7 +7,7 @@ int main()
     scanf("%lf",&km);
 
     ms = km * 0.27778;
-    printf("vitesse donnée en kilomètres par heure (km/h) %lf vers des mètres par seconde (m/s) %lf.",km,ms);
+    printf("vitesse donnÃ©e en kilomÃ¨tres par heure (km/h) %lf vers des mÃ¨tres par seconde (m/s) %lf.",km,ms);
 
     return 0;
 }
