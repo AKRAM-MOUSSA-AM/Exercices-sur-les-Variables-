@@ -3,7 +3,7 @@
 
 int main()
 { float T;
-printf("entrer la l'état de l'eau d'une température saisie en Celsius: ");
+printf("entrer la l'Ã©tat de l'eau d'une tempÃ©rature saisie en Celsius: ");
 scanf("%f",&T);
 if (T<0)
     printf(" Solide (glace)");
